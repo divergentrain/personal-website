@@ -2,24 +2,28 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: >
+  <p>Somewhat knowledgeable on numerical simulations and a wannabe scientific programmer.</p>
+  <p>RA at <a href="https://www.cranfield.ac.uk/centres/welding-and-additive-manufacturing-centre">WAMC, Cranfield Unviersity</a></p>
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>Research Assistant,</p>
-    <p>Welding and Additive Manufacturing Centre,</p>
-    <p>Building 46, Cranfield University, UK</p>
+#  more_info: >
+#    <p>Research Assistant,</p>
+#    <p>Welding and Additive Manufacturing Centre,</p>
+#    <p>Building 46, Cranfield University, UK</p>
 
 news: true # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a Research Assistant at the Welding and Additive Manufacturing Centre at Cranfield University, UK. My specialisation lies in the field of process modelling and simulations, specifically in the Finite Element Method (FEM). Apart from developing models, I have a keen interest in scientific computing, writing code for numerical solvers and mathematical modelling of materials.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Outside of work hours, I enjoy photography, playing retro games and contributing to open source. When it comes to reading, I prefer non-fiction. My music taste includes a little bit of everything but I am a big fan of metal, ambient and intelligent electronic music.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+
+
+
