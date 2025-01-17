@@ -7,19 +7,19 @@ first_name: Sundar
 #middle_name: R.
 last_name: Gurumurthy
 contact_note: >
-  E-mail me at <a href="mailto:gmsundar15@gmail.com" target="_blank">gmsundar15[at]gmail.com</a>.
+  The best way to reach me is through e-mail.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   This is the personal website of Sundar Gurumurthy
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
-  Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-  Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
+  Hosted by <a href="https://pages.cloudfare.com/" target="_blank">Cloudfare Pages</a>.
+  Source code available on <a href="https://github.com/gmsundar15/personal-website/">GitHub</a>.
 keywords: jekyll, jekyll-theme, academic-website, portfolio-website # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
-url: https://gmsundar15.github.io # the base hostname & protocol for your site
-baseurl: /personal-website # the subpath of your site, e.g. /blog/. Leave blank for root
+url: https://sundargurumurthy.com # the base hostname & protocol for your site
+baseurl: # the subpath of your site, e.g. /blog/. Leave blank for root
 last_updated: true # set to true if you want to display last updated in the footer
 impressum_path: # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
 back_to_top: true # set to false to disable the back to top button
@@ -265,8 +265,8 @@ jekyll-archives:
     tag: "/blog/tag/:name/"
     category: "/blog/category/:name/"
 
-display_tags: ["formatting", "images", "links", "math", "code", "blockquotes"] # these tags will be displayed on the front page of your blog
-display_categories: ["external-services"] # these categories will be displayed on the front page of your blog
+    #display_tags: ["formatting", "images", "links", "math", "code", "blockquotes"] # these tags will be displayed on the front page of your blog
+    #display_categories: ["external-services"] # these categories will be displayed on the front page of your blog
 
 # -----------------------------------------------------------------------------
 # Jekyll Scholar
