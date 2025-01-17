@@ -4,8 +4,8 @@ permalink: /cv/
 title: cv
 nav: true
 nav_order: 5
-cv_pdf: example_pdf.pdf # you can also use external links here
-description: This is a description of the page. You can modify it in '_pages/cv.md'. You can also change or remove the top pdf download button.
+cv_pdf: Sundar_Gurumurthy_CV.pdf # you can also use external links here
+description: I suggest viewing my detailed CV on this webpage. A summarised 2-page PDF is available for download at the top.
 toc:
   sidebar: left
 ---

@@ -1,0 +1,114 @@
+[
+  {
+    "DOI": "10.3390/s24196372",
+    "ISSN": "1424-8220",
+    "URL": "https://www.mdpi.com/1424-8220/24/19/6372",
+    "abstract": "This paper presents a study on residual stress measurement in wire-arc additively manufactured (WAAM) titanium samples using the non-destructive method of phased array ultrasonics. The contour method (CM) was used for the verification of the phased array ultrasonic results. This allowed for a comparison of measurement methods to understand the effects on the distribution of residual stress (RS) within Ti-6Al-4V samples and the effectiveness of measurement of residual stress using phased array ultrasonics. From the results of the experiments, the phased array ultrasonic data were found to be in good agreement with the CM results and displayed similar residual stress distributions in the samples. The results of the individual elements of the phased array were also compared and an improvement in accuracy was found. From per-element results, anomalies were found and could be mitigated with the ability to average the results by using phased array ultrasonics. Therefore, based on these results, there is a strong case for the benefits of using phased array ultrasonics as a method of residual stress measurement for WAAM Ti-6Al-4V components over other existing residual stress measurement techniques.",
+    "author": [
+      {
+        "family": "Walker",
+        "given": "Joseph"
+      },
+      {
+        "family": "Mills",
+        "given": "Brandon"
+      },
+      {
+        "family": "Javadi",
+        "given": "Yashar"
+      },
+      {
+        "family": "MacLeod",
+        "given": "Charles"
+      },
+      {
+        "family": "Sun",
+        "given": "Yongle"
+      },
+      {
+        "family": "Taraphdar",
+        "given": "Pradeeptta Kumar"
+      },
+      {
+        "family": "Ahmad",
+        "given": "Bilal"
+      },
+      {
+        "family": "Gurumurthy",
+        "given": "Sundar"
+      },
+      {
+        "family": "Ding",
+        "given": "Jialuo"
+      },
+      {
+        "family": "Sillars",
+        "given": "Fiona"
+      }
+    ],
+    "container-title": "Sensors",
+    "id": "sensors_2024",
+    "issue": "19",
+    "issued": {
+      "date-parts": [
+        [
+          2024
+        ]
+      ]
+    },
+    "title": "Study of residual stress using phased array ultrasonics in ti-6AL-4V wire-arc additively manufactured components",
+    "type": "article-journal",
+    "volume": "24"
+  },
+  {
+    "author": [
+      {
+        "family": "Malde",
+        "given": "C."
+      },
+      {
+        "family": "Gurumurthy",
+        "given": "S."
+      },
+      {
+        "family": "Diwan",
+        "given": "R."
+      }
+    ],
+    "container-title": "Proceedings of the International Astronautical Congress(IAC), Washington D.C.",
+    "id": "IAC_2019",
+    "issued": {
+      "date-parts": [
+        [
+          2019
+        ]
+      ]
+    },
+    "title": "Development and testing of an antenna deployment system for nanosatellite applications",
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Gurumurthy",
+        "given": "Sundar"
+      },
+      {
+        "family": "Malde",
+        "given": "Chintan"
+      }
+    ],
+    "container-title": "Proceedings of the 33rd AIAA-USU Smallsat conference, Logan, Utah",
+    "id": "AIAA_2019",
+    "issued": {
+      "date-parts": [
+        [
+          2019
+        ]
+      ]
+    },
+    "publisher": "https://www.base-search.net/Record/76e571816a3d2618dc41f6e5e604bda26a57061e95e9fb6b8cac6a70f943912f",
+    "title": "Dynamic active thermal control of a LEO nanosatellite based on its mode of operation",
+    "type": "article-journal"
+  }
+]

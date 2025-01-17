@@ -6,10 +6,10 @@ subtitle: >
   <p>Somewhat knowledgeable on numerical simulations and a wannabe scientific programmer.</p>
   <p>RA at <a href="https://www.cranfield.ac.uk/centres/welding-and-additive-manufacturing-centre">WAMC, Cranfield Unviersity</a></p>
 
-profile:
-  align: right
-  image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+#profile:
+#  align: right
+#  image: prof_pic.jpg
+#  image_circular: false # crops the image to make it circular
 #  more_info: >
 #    <p>Research Assistant,</p>
 #    <p>Welding and Additive Manufacturing Centre,</p>
