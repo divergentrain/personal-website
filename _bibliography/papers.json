@@ -50,11 +50,7 @@
     "id": "sensors_2024",
     "issue": "19",
     "issued": {
-      "date-parts": [
-        [
-          2024
-        ]
-      ]
+      "date-parts": [[2024]]
     },
     "title": "Study of residual stress using phased array ultrasonics in ti-6AL-4V wire-arc additively manufactured components",
     "type": "article-journal",
@@ -78,11 +74,7 @@
     "container-title": "Proceedings of the International Astronautical Congress(IAC), Washington D.C.",
     "id": "IAC_2019",
     "issued": {
-      "date-parts": [
-        [
-          2019
-        ]
-      ]
+      "date-parts": [[2019]]
     },
     "title": "Development and testing of an antenna deployment system for nanosatellite applications",
     "type": "article-journal"
@@ -101,11 +93,7 @@
     "container-title": "Proceedings of the 33rd AIAA-USU Smallsat conference, Logan, Utah",
     "id": "AIAA_2019",
     "issued": {
-      "date-parts": [
-        [
-          2019
-        ]
-      ]
+      "date-parts": [[2019]]
     },
     "publisher": "https://www.base-search.net/Record/76e571816a3d2618dc41f6e5e604bda26a57061e95e9fb6b8cac6a70f943912f",
     "title": "Dynamic active thermal control of a LEO nanosatellite based on its mode of operation",

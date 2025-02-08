@@ -1,4 +1,7 @@
 {
+	"meta": {
+		"theme": "jsonresume-theme-macchiato"
+	},
   "basics": {
     "name": "Sundar Gurumurthy",
     "label": "Computation Modelling Engineer",
@@ -13,12 +16,12 @@
     },
     "profiles": [
       {
-        "network": "LinkedIn",
+        "network": "linkedin",
         "username": "sundar-guru",
         "url": "https://www.linkedin.com/in/sundar-guru/"
       },
 	  {
-		"network": "ORCID",
+		"network": "orcid",
 		"username": "0000-0001-5388-8785",
 		"url": "https://orcid.org/0000-0001-5388-8785"
  	  }
@@ -50,7 +53,7 @@
 		"startDate": "2021-02-01",
 		"endDate": "2021-06-30",
 		"summary": "FE modelling of car crashes as part of the Crash Structures team.",
-		"highlights": ["Developed non-linear FE models of fibre reinforced composites in rubber tires for low speed car crash simulations.", "Studied the impace of various air pressure models of tyres on the lagrangian contact at tyre-road interface.", "Develivered the test plan for verification of the model for low speed car crashes."]
+		"highlights": ["Developed non-linear FE models of fibre reinforced composites in rubber tires for low speed car crash simulations.", "Studied the impact of various air pressure models of tyres on the lagrangian contact at tyre-road interface.", "Develivered the test plan for verification of the model for low speed car crashes."]
 	},
 	{
 		"name": "Daimler India Commercial Vehicles",
@@ -184,7 +187,8 @@
 	    },
 	    "name": "Development and testing of an antenna deployment system for nanosatellite applications",
 		"releaseDate": "2019-10-19",
-	    "type": "article-journal"
+	    "type": "article-journal",
+		"url": "https://www.scopus.com/record/display.uri?eid=2-s2.0-85079192397&origin=inward&txGid=f079ff5b625d999ef69b97eac241af48"
 	  },
 	  {
 	    "author": [
