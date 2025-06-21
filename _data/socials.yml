@@ -28,10 +28,16 @@ orcid_id: 0000-0001-5388-8785 # your ORCID ID
 # pinterest_id: # your pinterest id
 # publons_id: # your ID on Publons
 # quora_username: # your Quora username
+<<<<<<< HEAD
 research_gate_profile: Sundar-Gurumurthy # your profile on ResearchGate
 rss_icon: true # set to true to show the RSS icon
 scholar_userid: a1rJKy4AAAAJ # your Google Scholar ID
 scopus_id: 57214797861 # your profile on Scopus
+=======
+# research_gate_profile: # your profile on ResearchGate
+rss_icon: true # comment this line to hide the RSS icon
+scholar_userid: qc6CJjYAAAAJ # your Google Scholar ID
+# scopus_id: # your profile on Scopus
 # semanticscholar_id: # your Semantic Scholar ID
 # spotify_id: # your spotify id
 # stackoverflow_id: # your stackoverflow id
