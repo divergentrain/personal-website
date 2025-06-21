@@ -30,7 +30,23 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "news-after-successful-submission-of-my-msc-thesis-for-review-i-have-started-working-as-a-research-assistant-at-cranfield-university",
+        },{id: "post-what-i-do-amp-why",
+        
+          title: "What I do &amp; why",
+        
+        description: "A longer introduction about myself for those who have the time",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/What-and-why/";
+          
+        },
+      },{id: "books-the-godfather",
+          title: 'The Godfather',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/the_godfather/";
+            },},{id: "news-after-successful-submission-of-my-msc-thesis-for-review-i-have-started-working-as-a-research-assistant-at-cranfield-university",
           title: 'After successful submission of my MSc thesis for review, I have started working...',
           description: "",
           section: "News",},{id: "projects-project-1",
