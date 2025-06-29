@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://sundargurumurthy.com/sitemap.xml
+Sitemap: https://sundar.guru/sitemap.xml
