@@ -7,7 +7,7 @@ first_name: Sundar
 #middle_name: R.
 last_name: Gurumurthy
 contact_note: >
-  The best way to reach me is through e-mail.
+  The best way to reach me is through e-mail. Optionally, encrypt your messages with my <a href="https://gist.github.com/gmsundar15/1731c1b2511553c8c58f322fdf7078d0"> OpenPGP key <a>.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   This is the personal website of Sundar Gurumurthy
 footer_text: >
@@ -101,7 +101,7 @@ related_blog_posts:
 # Follow instructions on https://giscus.app/ to setup for your repo to fill out the information below.
 giscus:
   repo: gmsundar15/personal-website # <your-github-user-name>/<your-github-repo-name>
-  repo_id: # leave empty or specify your repo_id (see https://giscus.app/)
+  repo_id: R_kgDONq6Hjg # leave empty or specify your repo_id (see https://giscus.app/)
   category: Comments # name of the category under which discussions will be created
   category_id: # leave empty or specify your category_id (see https://giscus.app/)
   mapping: title # identify discussions by post title
@@ -260,7 +260,7 @@ jekyll-archives:
 
 scholar:
   last_name: [Gurumurthy]
-  first_name: [Sundar]
+  first_name: [Sundar, S.]
 
   style: apa
   locale: en
