@@ -3,7 +3,7 @@ layout: about
 title: about
 permalink: /
 subtitle: >
-  <p>Somewhat knowledgeable on numerical simulations and a wannabe scientific programmer.</p>
+  <p>Researcher in process modelling and numerical simulations, with a focus on FEM and scientific computing.</p>
   <p>RA at <a href="https://www.cranfield.ac.uk/centres/welding-and-additive-manufacturing-centre">WAMC, Cranfield Unviersity</a></p>
 
 profile:
@@ -30,8 +30,10 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a Research Assistant at the Welding and Additive Manufacturing Centre at Cranfield University, UK. My specialisation lies in the field of process modelling and simulations, specifically in the Finite Element Method (FEM). Apart from developing models, I have a keen interest in scientific computing, writing code for numerical solvers and mathematical modelling of materials.
+I am currently a Research Assistant at the Welding and Additive Manufacturing Centre (WAMC), Cranfield University, UK. My work focuses on process modelling and numerical simulations, particularly using the Finite Element Method (FEM) to understand and predict thermo-mechanical phenomena in advanced manufacturing processes.
 
-Outside of work hours, I enjoy photography, playing retro games and contributing to open source. When it comes to reading, I prefer non-fiction. My music taste includes a little bit of everything but I am a big fan of metal, ambient and intelligent electronic music.
+My broader interests lie in scientific computing and mathematical modelling. I actively develop numerical solvers and computational tools aimed at improving the robustness and efficiency of simulations for materials and manufacturing systems. I’m especially interested in the intersection of numerical methods, software design, and material behaviour modelling.
 
-You can read more about the way I try to live on my [blog post](blog/2025/What-and-why/)
+Beyond research, I enjoy photography, retro gaming, and contributing to open-source scientific software. I also have a strong interest in non-fiction literature and a diverse taste in music, with a particular appreciation for metal, ambient, and experimental electronic genres.
+
+If you're curious about the values that guide my work and life, I’ve written a short [blog post](blog/2025/What-and-why/) on that topic.

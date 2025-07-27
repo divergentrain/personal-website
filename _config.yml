@@ -162,7 +162,7 @@ kramdown:
       start_line: 1
 
 # Includes & excludes
-include: ["_pages", "_scripts"]
+include: ["_pages", "_scripts", "_projects"]
 exclude:
   - bin/
   - CONTRIBUTING.md
@@ -183,7 +183,6 @@ exclude:
   - README.md
   - readme_preview/
   - vendor
-  - _pages/projects.md
   - _pages/repositories.md
   - _pages/profiles.md
   - _pages/dropdown.md
