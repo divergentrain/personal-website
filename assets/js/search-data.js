@@ -23,6 +23,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
+        },{id: "nav-projects",
+          title: "projects",
+          description: "A growing collection of your cool projects.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/projects/";
+          },
         },{id: "nav-cv",
           title: "cv",
           description: "I suggest viewing my detailed CV on this webpage. A summarised 2-page PDF is available for download at the top.",
@@ -44,7 +51,12 @@ ninja.data = [{
       },{id: "news-after-successful-submission-of-my-msc-thesis-for-review-i-have-started-working-as-a-research-assistant-at-cranfield-university",
           title: 'After successful submission of my MSc thesis for review, I have started working...',
           description: "",
-          section: "News",},{
+          section: "News",},{id: "projects-kinetic-monte-carlo-integration-into-fea",
+          title: 'Kinetic Monte Carlo integration into FEA',
+          description: "A proof on concept for kMCFEA of Additive Manufacturing",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/1_kMC_FEA/";
+            },},{
         id: 'social-email',
         title: 'email',
         section: 'Socials',
