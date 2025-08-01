@@ -9,7 +9,7 @@
     "email": "sundar@sundar.guru",
     "phone": "+44 7442 278370",
     "url": "https://sundar.guru",
-    "summary": "Early-career engineering professional with over 3 years of experience in Finite Element Analysis (FEA), specializing in process modelling and simulation. Strong academic background with a research-focused MSc and hands-on expertise in WAAM, gear design, and crash simulations.",
+    "summary": "Computational engineer with 3+ years of hands-on experience in FEA, materials modeling, and design for manufacturing. Skilled in developing physics-based simulation workflows for WAAM, crashworthiness, and gear systems. Experienced in bridging academic research and industrial R&D through high-fidelity modeling and automation.",
     "location": {
       "city": "Cranfield",
       "countryCode": "UK"
@@ -34,12 +34,12 @@
       "location": "Cranfield, UK",
       "url": "https://www.cranfield.ac.uk/people/sundar-gurumurthy-36820835",
       "startDate": "2024-06-03",
-      "summary": "Supporting advanced process modelling at the Welding and Additive Manufacturing Centre, specializing in WAAM for aerospace and energy applications.",
+      "summary": "Researcher at the Welding and Additive Manufacturing Centre, supporting advanced process modeling and simulation in large-scale metal AM for aerospace, energy and nuclear sectors.",
       "highlights": [
-        "Developed FEA models for WAAM (CW-MIG, PTA) to optimize microstructure and minimize defects.",
-        "Designed efficient deposition sequences using thermo-mechanical solvers for complex geometries.",
-        "Integrated martensitic transformation behavior in dissimilar metal deposition models.",
-        "Conducted WAAM experiments using SEM, thermal imaging, and 3D scanning techniques."
+        "Built thermo-mechanical FEA models for WAAM processes (CW-MIG, PTA) to predict residual stresses and geometric distortion.",
+        "Implemented martensitic transformation behavior in multi-material deposition simulations.",
+        "Designed deposition strategies for complex geometries using coupled thermal-mechanical solvers.",
+        "Conducted in-situ validation via SEM, thermal imaging, and 3D scanning to calibrate models."
       ]
     },
     {
@@ -48,11 +48,12 @@
       "location": "Gurugram, IN",
       "startDate": "2021-07-12",
       "endDate": "2022-07-11",
-      "summary": "Worked in the bevel gear design team of a global leader in drivetrain systems.",
+      "summary": "Worked in the bevel gear design team, building automated design and simulation tools for drivetrain systems targeting electric vehicle platforms.",
       "highlights": [
-        "Optimized forged gear profiles using Bezier surface tools and CAD techniques.",
-        "Performed LTCA and NVH analyses for leading automotive OEMs.",
-        "Improved manufacturability through close collaboration with cross-functional teams."
+        "Developed parametric CAD and macro-geometry tools for bevel gear design with crowning support.",
+        "Streamlined LTCA and NVH simulations for iterative development cycles.",
+        "Created an end-to-end pipeline integrating design with version control in PLM systems.",
+        "Liaised with suppliers and internal testing teams to meet performance and manufacturability goals."
       ]
     },
     {
@@ -61,11 +62,11 @@
       "location": "Bengaluru, IN",
       "startDate": "2021-02-01",
       "endDate": "2021-06-30",
-      "summary": "Contributed to the Crash Structures team for automotive crash simulations.",
+      "summary": "Supported crashworthiness simulations within the Crash Structures team, focusing on tire and composite interactions under impact.",
       "highlights": [
-        "Developed non-linear FE crash models of tires using LS-DYNA.",
-        "Assessed air pressure modeling and contact algorithms in crash scenarios.",
-        "Proposed and documented verification procedures for composite materials."
+        "Developed non-linear FE tire models using LS-DYNA for high-fidelity crash simulation.",
+        "Benchmarked contact algorithms and air pressure modeling under dynamic loads.",
+        "Contributed to composite material modeling validation workflows and documentation."
       ]
     },
     {
@@ -77,7 +78,7 @@
       "summary": "Supported End-of-Line operations for Mitsubishi FUSO trucks.",
       "highlights": [
         "Conducted lean manufacturing analysis that improved rework efficiency by 0.5%.",
-        "Led root cause investigations and developed corrective actions for production defects."
+        "Performed root cause investigations and developed corrective actions for production defects."
       ]
     }
   ],
@@ -93,6 +94,7 @@
       "score": "10",
       "courses": [
         "<b><i>Thesis:</i></b> Understanding and Improving the Inherent Strain Method for Mechanical Analysis of Wire Arc Additive Manufacturing.",
+        "<b><i>Key Topics:</i></b> Residual stress prediction, distortion modeling, process-structure-property relations.",
         "<b><i>Supervisors:</i></b> Dr. Yongle Sun & Dr. Pradeeptta Taraphdar",
         "<b><i>Funding:</i></b> NEWAM (EPSRC Programme Grant)"
       ]
