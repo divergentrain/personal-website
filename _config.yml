@@ -7,14 +7,14 @@ first_name: Sundar
 #middle_name: R.
 last_name: Gurumurthy
 contact_note: >
-  The best way to reach me is through e-mail. Optionally, encrypt your messages with my <a href="https://gist.github.com/gmsundar15/1731c1b2511553c8c58f322fdf7078d0"> OpenPGP key <a>.
+  The best way to reach me is through e-mail. Optionally, encrypt your messages with my <a href="https://gist.github.com/divergentrain/1731c1b2511553c8c58f322fdf7078d0"> OpenPGP key <a>.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   This is the personal website of Sundar Gurumurthy
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
 keywords: Sundar-G, Sundar-Gurumurthy, academic-website, scientific-computing # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: SG # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: SG_title.png # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://sundar.guru # the base hostname & protocol for your site
 baseurl: "" # the subpath of your site, e.g. /blog/. Leave blank for root
@@ -100,7 +100,7 @@ related_blog_posts:
 # Giscus comments (RECOMMENDED)
 # Follow instructions on https://giscus.app/ to setup for your repo to fill out the information below.
 giscus:
-  repo: gmsundar15/personal-website # <your-github-user-name>/<your-github-repo-name>
+  repo: divergentrain/personal-website # <your-github-user-name>/<your-github-repo-name>
   repo_id: R_kgDONq6Hjg # leave empty or specify your repo_id (see https://giscus.app/)
   category: Comments # name of the category under which discussions will be created
   category_id: # leave empty or specify your category_id (see https://giscus.app/)

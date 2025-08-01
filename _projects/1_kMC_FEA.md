@@ -19,7 +19,7 @@ In traditional FEA implementations using the JMAK model, phase-dependent materia
 
 This project aims to develop a **proof-of-concept single-element transient simulation**, using only open-source tools, to demonstrate this coupling strategy. The focus is on simulating phase transformation behavior using a Kinetic Monte Carlo scheme and comparing the results against more traditional approaches used in FEA, such as the Johnson-Mehl-Avrami-Kolmogorov (JMAK) model.
 
-Development is ongoing, and the source code is publicly available on [GitHub](https://github.com/gmsundar15/KMC-AM.git).
+Development is ongoing, and the source code is publicly available on [GitHub](https://github.com/divergentrain/KMC-AM.git).
 
 ## Key Objectives
 
