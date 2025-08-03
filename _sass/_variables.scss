@@ -6,27 +6,27 @@
 @use "sass:color";
 
 // Colors
-$red-color: #ff3636 !default;
-$red-color-dark: #b71c1c !default;
-$orange-color: #f29105 !default;
-$blue-color: #0076df !default;
-$blue-color-dark: #00369f !default;
-$cyan-color: #2698ba !default;
-$light-cyan-color: color.adjust($cyan-color, $lightness: 25%);
-$green-color: #00ab37 !default;
-$green-color-lime: #b7d12a !default;
-$green-color-dark: #009f06 !default;
-$green-color-light: #ddffdd !default;
-$green-color-bright: #11d68b !default;
-$purple-color: #b509ac !default;
-$light-purple-color: color.adjust($purple-color, $lightness: 25%);
-$pink-color: #f92080 !default;
-$pink-color-light: #ffdddd !default;
-$yellow-color: #efcc00 !default;
+$red-color: #ec9b9d !default;
+$red-color-dark: #e78284 !default;
+$orange-color: #d7875f !default;
+$blue-color: #85c1dc !default;
+$blue-color-dark: #8caade !default;
+$cyan-color: #9bbcbf !default;
+$light-cyan-color: #b7c6c6;
+$green-color: #a6e3a1 !default;
+$green-color-lime: #fffe66 !default;
+$green-color-dark: #a6e3a1 !default;
+$green-color-light: #c9e4de !default;
+$green-color-bright: #3ebb9e !default;
+$purple-color: #ca9ee6 !default;
+$light-purple-color: #b4befe;
+$pink-color: #dfafaf !default;
+$pink-color-light: #f5e0dd !default;
+$yellow-color: #f3d17c !default;
 
-$grey-color: #828282 !default;
-$grey-color-light: color.adjust($grey-color, $lightness: 40%);
-$grey-color-dark: #1c1c1d;
+$grey-color: #b3b3b3 !default;
+$grey-color-light: #808080;
+$grey-color-dark: #262a35;
 $grey-900: #212529;
 
 $white-color: #ffffff !default;
@@ -34,8 +34,39 @@ $black-color: #000000 !default;
 
 // Theme colors
 
-$code-bg-color-light: rgba($purple-color, 0.05);
-$code-bg-color-dark: #2c3237 !default;
+$code-bg-color-light: #eff1f6;
+$code-bg-color-dark: #51555d !default;
+// // Colors
+// $red-color: #ff3636 !default;
+// $red-color-dark: #b71c1c !default;
+// $orange-color: #f29105 !default;
+// $blue-color: #0076df !default;
+// $blue-color-dark: #00369f !default;
+// $cyan-color: #2698ba !default;
+// $light-cyan-color: color.adjust($cyan-color, $lightness: 25%);
+// $green-color: #00ab37 !default;
+// $green-color-lime: #b7d12a !default;
+// $green-color-dark: #009f06 !default;
+// $green-color-light: #ddffdd !default;
+// $green-color-bright: #11d68b !default;
+// $purple-color: #b509ac !default;
+// $light-purple-color: color.adjust($purple-color, $lightness: 25%);
+// $pink-color: #f92080 !default;
+// $pink-color-light: #ffdddd !default;
+// $yellow-color: #efcc00 !default;
+//
+// $grey-color: #828282 !default;
+// $grey-color-light: color.adjust($grey-color, $lightness: 40%);
+// $grey-color-dark: #1c1c1d;
+// $grey-900: #212529;
+//
+// $white-color: #ffffff !default;
+// $black-color: #000000 !default;
+//
+// // Theme colors
+//
+// $code-bg-color-light: rgba($purple-color, 0.05);
+// $code-bg-color-dark: #2c3237 !default;
 
 // Font awesome location
 $fa-font-path: "../webfonts";
