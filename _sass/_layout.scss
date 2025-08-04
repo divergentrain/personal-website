@@ -51,3 +51,24 @@ body.sticky-bottom-footer {
 *****************************************************************************/
 
 // TODO: redefine projects layout.
+
+
+.custom-zoom .mermaid {
+  transform: scale(1);
+  transform-origin: top center;
+  display: block;
+}
+
+.custom-zoom .mermaid svg {
+  width: 900px !important; /* fixed px values based on content width in _config.yml */
+  max-width: none !important;
+  height: auto;
+  display: block;
+}
+
+.custom-zoom {
+  display: flex;
+  justify-content: top center;  /* centers the div on the page */
+  overflow-x: auto;         /* allows horizontal scroll if needed */
+}
+

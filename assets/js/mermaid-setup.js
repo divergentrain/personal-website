@@ -26,6 +26,23 @@ document.addEventListener("readystatechange", () => {
           var svg = d3.select(this);
           svg.html("<g>" + svg.html() + "</g>");
           var inner = svg.select("g");
+          /* fix whitepace around svg by tightening viewBox*/
+          var bbox = this.getBBox();
+          svg.attr("viewBox", `${bbox.x} ${bbox.y} ${bbox.width} ${bbox.height}`);
+          svg.style("width", "100%").style("height", "auto");
+          svg.attr("preserveAspectRatio", "xMidYMid meet");
+
+          /* Set initial zoom transform (e.g., zoomed out to 100%, and centered) */
+          var initialScale = 1.0;
+          var svgWidth = svg.node().clientWidth;
+          var svgHeight = svg.node().clientHeight;
+
+          /* Centering translation */
+          var translateX = (svgWidth * (1 - initialScale)) / 2;
+          var translateY = (svgHeight * (1 - initialScale)) / 2;
+
+          /* Apply initial transform: translate + scale */
+          inner.attr("transform", `translate(${translateX}, ${translateY}) scale(${initialScale})`);
           var zoom = d3.zoom().on("zoom", function (event) {
             inner.attr("transform", event.transform);
           });
