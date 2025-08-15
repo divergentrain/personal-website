@@ -37,7 +37,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-what-i-do-amp-why",
+        },{id: "post-why-rust-isn-t-ready-for-engineering-software-yet",
+        
+          title: "Why Rust Isn’t Ready for Engineering Software (Yet)",
+        
+        description: "Exploring why Rust isn’t yet ready for CAE software development, from library gaps to HPC and GPU limitations.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/Rust-sucks-for-cae/";
+          
+        },
+      },{id: "post-what-i-do-amp-why",
         
           title: "What I do &amp; why",
         
