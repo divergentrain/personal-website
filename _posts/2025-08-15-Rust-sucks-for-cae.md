@@ -4,7 +4,7 @@ title: Why Rust Isn’t Ready for Engineering Software (Yet)
 giscus_comments: true
 featured: true
 date: 2025-08-15 12:38:53 +0000
-description: Exploring why Rust isn’t yet ready for CAE software development, from library gaps to HPC and GPU limitations.
+description: Why Rust isn’t yet ready for CAE software development, from library gaps to HPC and GPU limitations.
 tags: CAE, Scientific-Computing, Rust, C++, HPC
 categories: Simulation-tools, Programming
 toc:
@@ -17,8 +17,8 @@ memory safety _and_ performance a tier above garbage-collected languages? Sign
 me up. Finally, a way to escape the data races and the tyranny of C++ compilers
 that think `"segmentation fault"` is an acceptable personality trait.
 
-I was ready to go all in — maybe even color my hair blue before I started the
-development. Rust seemed like my ticket to a modern, sane, productive
+I was ready to go all in — maybe even color my hair blue before writing my
+first lines in Rust. Rust seemed like my ticket to a modern, sane, productive
 development experience. Sure, I expected a few bumps along the way, but hey,
 Rust is supposed to make large projects _easy_, right? No big deal.
 
