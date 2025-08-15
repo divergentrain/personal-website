@@ -52,7 +52,6 @@ body.sticky-bottom-footer {
 
 // TODO: redefine projects layout.
 
-
 .custom-zoom .mermaid {
   transform: scale(1);
   transform-origin: top center;
@@ -68,7 +67,6 @@ body.sticky-bottom-footer {
 
 .custom-zoom {
   display: flex;
-  justify-content: top center;  /* centers the div on the page */
-  overflow-x: auto;         /* allows horizontal scroll if needed */
+  justify-content: top center; /* centers the div on the page */
+  overflow-x: auto; /* allows horizontal scroll if needed */
 }
-

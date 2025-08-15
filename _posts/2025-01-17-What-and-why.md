@@ -4,7 +4,7 @@ title: What I do & why
 date: 2025-06-21 00:00:00 +0000
 description: A longer introduction about myself for those who have the time
 tags: life, philosophy
-categories: self, 2025
+categories: self
 toc:
   sidebar: left
 ---
