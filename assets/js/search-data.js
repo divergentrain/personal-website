@@ -41,7 +41,7 @@ ninja.data = [{
         
           title: "Why Rust Isn’t Ready for Engineering Software (Yet)",
         
-        description: "Exploring why Rust isn’t yet ready for CAE software development, from library gaps to HPC and GPU limitations.",
+        description: "Why Rust isn’t yet ready for CAE software development, from library gaps to HPC and GPU limitations.",
         section: "Posts",
         handler: () => {
           
