@@ -7,9 +7,6 @@ date: 2025-08-15 12:38:53 +0000
 description: Why Rust isn’t yet ready for CAE software development, from library gaps to HPC and GPU limitations.
 tags: CAE, Scientific-Computing, Rust, C++, HPC
 categories: Simulation-tools, Programming
-toc:
-  sidebar: left
-meta_keywords: Rust, CAE software, scientific computing, C++, Fortran, HPC, GPU acceleration, OpenCascade, Gmsh, Rust FFI, Rust HPC, Rust GPU
 ---
 
 I wanted to develop a feature-rich, open-source CAE application in Rust. Easy
