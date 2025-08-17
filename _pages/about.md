@@ -30,10 +30,12 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am currently a Research Assistant at the Welding and Additive Manufacturing Centre (WAMC), Cranfield University, UK. My work focuses on process modelling and numerical simulations, particularly using the Finite Element Method (FEM) to understand and predict thermo-mechanical phenomena in advanced manufacturing processes.
+I am currently a Research Assistant at the Welding and Additive Manufacturing Centre (WAMC), Cranfield University, UK. My work focuses on process
+modelling and numerical simulations, particularly using the Finite Element Method (FEM) to understand and predict thermo-mechanical phenomena in
+advanced manufacturing processes.
 
-My broader interests lie in scientific computing and mathematical modelling. I actively develop numerical solvers and computational tools aimed at improving the robustness and efficiency of simulations for materials and manufacturing systems. I’m especially interested in the intersection of numerical methods, software design, and material behaviour modelling.
+Outside of research, I develop numerical solvers and computational tools to make simulations for materials and manufacturing more robust and efficient,
+with broader interests in scientific computing and mathematical modelling.
 
-Beyond research, I enjoy photography, retro gaming, and contributing to open-source scientific software. I also have a strong interest in non-fiction literature and a diverse taste in music, with a particular appreciation for metal, ambient, and experimental electronic genres.
-
-If you're curious about the values that guide my work and life, I’ve written a short [blog post](blog/2025/What-and-why/) on that topic.
+For a deeper look at my professional background, see my [CV](cv/). My personal reflections and thoughts on learning and
+building are in this [blog post](blog/2025/What-and-why/).
