@@ -79,7 +79,7 @@ ninja.data = [{
         title: 'GitHub',
         section: 'Socials',
         handler: () => {
-          window.open("https://github.com/divergentrain", "_blank");
+          window.open("https://github.com/neuroconvergent", "_blank");
         },
       },{
         id: 'social-linkedin',
