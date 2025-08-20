@@ -48,7 +48,7 @@
 #align(center)[
   #text(24pt, weight: "bold", fill: darkblue)[Sundar Gurumurthy] \
   #link("mailto:sundar@sundar.guru")[sundar\@sundar.guru] • (+44) 7442278370 \
-  #link("https://sundar.guru")[www.sundar.guru] • #link("https://orcid.org/0000-0001-5388-8785")[ORCID] •  #link("https://linkedin.com/in/sundar-guru")[linkedin.com/in/sundar-guru] •  #link("https://github.com/divergentrain")[github.com/divergentrain]
+  #link("https://sundar.guru")[www.sundar.guru] • #link("https://orcid.org/0000-0001-5388-8785")[ORCID] •  #link("https://linkedin.com/in/sundar-guru")[linkedin.com/in/sundar-guru] •  #link("https://github.com/neuroconvergent")[github.com/neuroconvergent]
 ]
 
 = Professional Summary
