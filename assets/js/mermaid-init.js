@@ -11,11 +11,12 @@ function getThemeVars(flavor) {
     lineColor: styles.getPropertyValue(`--ctp-${flavor}-subtext0`).trim(),
     secondaryColor: styles.getPropertyValue(`--ctp-${flavor}-surface0`).trim(),
     tertiaryColor: styles.getPropertyValue(`--ctp-${flavor}-surface1`).trim(),
+    noteBkgColor: styles.getPropertyValue(`--ctp-${flavor}-mantle`).trim(),
+    noteTextColor: styles.getPropertyValue(`--ctp-${flavor}-text`).trim(),
   };
 }
 
 function initMermaid() {
-  // ✅ Use your existing theme computation logic
   const computedTheme = determineComputedTheme(); // "dark" | "light"
   const flavor = computedTheme === "dark" ? "mocha" : "latte";
 
@@ -33,12 +34,8 @@ function initMermaid() {
 initMermaid();
 
 /* Re-initialize on system theme change */
-window.matchMedia("(prefers-color-scheme: dark)").addEventListener("change", () => {
+const computedTheme = determineComputedTheme(); // "dark" | "light"
+window.matchMedia(computedTheme).addEventListener("change", () => {
   initMermaid();
 });
 
-/* Optional: if you also have a manual theme toggle button,
-   you can hook into it here by listening for a custom event */
-document.addEventListener("themeChanged", () => {
-  initMermaid();
-});
