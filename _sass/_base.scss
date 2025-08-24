@@ -884,7 +884,7 @@ figure.highlight {
 
 pre {
   color: var(--global-theme-color);
-  background-color: var(--global-code-bg-color);
+  background-color: var(--global-code-bg-color) !important;
   border-radius: 6px;
   padding: 6px 12px;
 
@@ -899,7 +899,7 @@ pre {
 
 code {
   color: var(--global-theme-color);
-  background-color: var(--global-code-bg-color);
+  background-color: var(--global-code-bg-color) !important;
   border-radius: 3px;
   padding: 3px 3px;
 }

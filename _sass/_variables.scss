@@ -6,36 +6,44 @@
 @use "sass:color";
 
 // Colors
-$red-color: #ec9b9d !default;
+$red-color: #d20f39 !default;
 $red-color-dark: #e78284 !default;
 $orange-color: #d7875f !default;
-$blue-color: #85c1dc !default;
+$blue-color: #1e66f5 !default;
 $blue-color-dark: #8caade !default;
 $cyan-color: #9bbcbf !default;
 $light-cyan-color: #b7c6c6;
-$green-color: #a6e3a1 !default;
+$green-color: #40a02b !default;
 $green-color-lime: #fffe66 !default;
 $green-color-dark: #a6e3a1 !default;
 $green-color-light: #c9e4de !default;
 $green-color-bright: #3ebb9e !default;
 $purple-color: #ca9ee6 !default;
 $light-purple-color: #b4befe;
-$pink-color: #dfafaf !default;
+$pink-color: #ea76cb !default;
 $pink-color-light: #f5e0dd !default;
-$yellow-color: #f3d17c !default;
+$yellow-color: #df8e1d !default;
 
-$grey-color: #b3b3b3 !default;
-$grey-color-light: #808080;
-$grey-color-dark: #262a35;
-$grey-900: #212529;
+$grey-color: #a6adc8 !default;
+$subtext: #6c6f85;
+$grey-color-light: #11111d;
+$grey-color-dark: #181825;
+$grey-900: #313244;
 
-$white-color: #ffffff !default;
-$black-color: #000000 !default;
+$white-color: #cdd6f4 !default;
+$black-color: #4c4f69 !default;
 
 // Theme colors
 
-$code-bg-color-light: #eff1f6;
-$code-bg-color-dark: #51555d !default;
+$dark-theme-color: #cba6f7 !default;
+$light-theme-color: #8839ef !default;
+$code-bg-color-light: #e6e9ef;
+$code-bg-color-dark: #313244;
+$light-surface: #ccd0da;
+$dark-surface: #313244;
+$light-card: #eff1f5;
+$dark-card: #1e1e2e;
+
 // // Colors
 // $red-color: #ff3636 !default;
 // $red-color-dark: #b71c1c !default;
