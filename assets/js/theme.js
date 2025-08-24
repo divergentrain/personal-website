@@ -31,9 +31,9 @@ let applyTheme = () => {
   setSearchTheme(theme);
 
   // if mermaid is not defined, do nothing
-  if (typeof mermaid !== "undefined") {
-    setMermaidTheme(theme);
-  }
+  // if (typeof mermaid !== "undefined") {
+  //   setMermaidTheme(theme);
+  // }
 
   // if diff2html is not defined, do nothing
   if (typeof Diff2HtmlUI !== "undefined") {
